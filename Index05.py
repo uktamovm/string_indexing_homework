@@ -1,9 +1,7 @@
 def main(s):
-    """
-    Given a variable s string of length five. Determine the number of digits involved in this variable.
-    Args:
-        s(str): parameter
-    Returns:
-        int: answer
-    """
-    return
+    x = 0
+    if s[0]    
+
+    
+    return s[0]
+print(main('32x3z'))
